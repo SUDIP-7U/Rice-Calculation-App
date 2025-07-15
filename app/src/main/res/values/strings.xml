@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RiceCalculator</string>
+
+    <string name="hint_people">Number of people</string>
+    <string name="hint_grams_per_person">Rice per person (grams)</string>
+    <string name="hint_meals_per_day">Meals per day</string>
+    <string name="hint_duration_days">Duration (days)</string>
+    <string name="hint_price_per_kg">Price per kg (৳)</string>
+
+    <string name="button_calculate">Calculate</string>
+    <string name="result_placeholder">Result will appear here</string>
+
+    <string name="result_total_uncooked_rice">Total Uncooked Rice: %1$.2f kg</string>
+    <string name="result_total_cost">Total Cost: ৳%1$.2f</string>
+    <string name="result_cooked_rice_output">Cooked Rice Output: %1$.2f kg</string>
+    <string name="result_rice_per_day">Rice per Day: %1$.2f kg</string>
+
+</resources>
